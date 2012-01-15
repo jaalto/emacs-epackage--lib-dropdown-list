@@ -8,4 +8,4 @@
 (autoload 'define-key*                          "dropdown-list" "" nil)
 (autoload 'combine-command                      "dropdown-list" "" t)
 (autoload 'command-selector                     "dropdown-list" "" nil)
-(provide 'lib-dropdown-list-epkg-autoloads)
+(provide 'lib-dropdown-list-epackage-autoloads)
