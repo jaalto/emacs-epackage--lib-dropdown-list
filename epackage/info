@@ -2,7 +2,7 @@ Package: lib-dropdown-list
 Section: extensions
 License: GPL-3+
 Depends: emacs (>= 22)
-Status: unmaintained stable
+Status: unsafe stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
@@ -18,4 +18,4 @@ X-Development:
  Last changes to code 2009-08-14 by Deniz Dogan.
  2011-12-18 email from upstream "I am not actively developing the program"
 Description: library of dropdown menu functions
- Note: 2011-12-18 the code hasn't been touched since 2009.
+ Unsafe, because not all functions start with dropdown-* prefix.
